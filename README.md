@@ -6,6 +6,10 @@ Q-Sci was collectively designed during **["Fare, sapere, diventare"](https://las
 
 Q-Sci is an **experimental display typeface** and a living project, designed to evolve and expand with new glyphs over time. 
 
+Tutors: Roberto Ciarambino, Alberto Guerra, Greta Papaveri, Luca Santarelli, Alessandro Tartaglia
+
+Participants: Alessio Morbidelli, Andrea Ghirardi, Andrea Veramonti, Federico Ambra, Gabriele Falcinelli, Gessica Hima, Giacomo Cappella, Giovanna Merialdo, Giulia Matilda Cielo, Luca Montironi, Luca Tomaselli, Ludovica Mosconi, Marco Melgazzi, Mattia Cerquetti, Serena Luciani, Sofia Rogani, Tommaso Cartechini, Umberto Marchetti
+
 Letterforms and icons were designed using **[Chirone](https://github.com/sssuperio/chirone)**, a tool forked from [GTL](https://github.com/bbtgnn/GTL-web) and developed during the workshop. 
 
 > *Chirone is still a wip, but it works great! <3*
