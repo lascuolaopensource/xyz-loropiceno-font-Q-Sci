@@ -14,15 +14,13 @@ Letterforms and icons were designed using **[Chirone](https://github.com/sssuper
 |:---|:---|
 | ![X](documentation/Q-Sci-people.png) | ![Q-Sci](documentation/Q-Sci-I.png) |
 
-
-
 ## 🖼️ Specimen
 
 *click to open the PDF*
 
 | PDF specimen |
 |:---:|
-| [![PDF specimen](documentation/tutu-specimen-cover.png)](documentation/TUTU_specimen.pdf) |
+| [![PDF specimen](documentation/)](documentation/Q-Sci-specimen.pdf) |
 
 | GABRIELE BINDING THE SPECIMEN |
 |:---:|
@@ -39,6 +37,10 @@ Letterforms and icons were designed using **[Chirone](https://github.com/sssuper
 | DETTO IN DIALETTO LORESE |
 |:---:|
 | ![DETTO IN DIALETTO LORESE](documentation/Q-Sci-specimen035.png) |
+
+| L + WING |
+|:---:|
+| ![L WING](documentation/Q-Sci-specimen026.png) |
 
 ## 📒 Q-Sci in use
 
