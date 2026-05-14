@@ -19,16 +19,32 @@ Letterforms and icons were designed using **[Chirone](https://github.com/sssuper
 ## 🖼️ Specimen
 
 *click to open the PDF*
-[![PDF specimen](documentation/tutu-specimen-cover.png)](documentation/TUTU_specimen.pdf)
 
-![GABRIELE BINDING THE SPECIMEN](documentation/Q-Sci-specimen010.png)
-![Q-SCI SPECIMEN COVER](documentation/Q-Sci-specimen016.png)
-![LI VIZI SE PAGA](documentation/Q-Sci-specimen033.png)
-![DETTO IN DIALETTO LORESE](documentation/Q-Sci-specimen035.png)
+| PDF specimen |
+|:---:|
+| [![PDF specimen](documentation/tutu-specimen-cover.png)](documentation/TUTU_specimen.pdf) |
+
+| GABRIELE BINDING THE SPECIMEN |
+|:---:|
+| ![GABRIELE BINDING THE SPECIMEN](documentation/Q-Sci-specimen010.png) |
+
+| Q-SCI SPECIMEN COVER |
+|:---:|
+| ![Q-SCI SPECIMEN COVER](documentation/Q-Sci-specimen016.png) |
+
+| LI VIZI SE PAGA |
+|:---:|
+| ![LI VIZI SE PAGA](documentation/Q-Sci-specimen033.png) |
+
+| DETTO IN DIALETTO LORESE |
+|:---:|
+| ![DETTO IN DIALETTO LORESE](documentation/Q-Sci-specimen035.png) |
 
 ## 📒 Q-Sci in use
 
-![3D PRINTED HOWL FOR SWITCH'S COVER](documentation/Q-Sci-3dprinted-Howl-switch-covers.png)
+| 3D PRINTED HOWL FOR SWITCH'S COVER |
+|:---:|
+| ![3D PRINTED HOWL FOR SWITCH'S COVER](documentation/Q-Sci-3dprinted-Howl-switch-covers.png) |
 
 | Federico and Matteo| Some posters|
 |:---:|:---:|
