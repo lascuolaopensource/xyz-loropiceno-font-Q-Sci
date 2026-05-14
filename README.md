@@ -10,7 +10,11 @@ Letterforms and icons were designed using **[Chirone](https://github.com/sssuper
 
 > *Chirone is still a wip, but it works great! <3*
 
-![X](documentation/Q-Sci-people.png) ![Q-Sci](documentation/Q-Sci-I.png)
+![X](documentation/Q-Sci-people.png)
+> **Team X 🥹🖤**
+
+![Q-Sci](documentation/Q-Sci-I.png)
+> **I**
 
 ## 🖼️ Specimen
 
@@ -26,10 +30,10 @@ Letterforms and icons were designed using **[Chirone](https://github.com/sssuper
 
 ![3D PRINTED HOWL FOR SWITCH'S COVER](documentation/Q-Sci-3dprinted-Howl-switch-covers.png)
 ![BIG STICKER](documentation/Q-Sci-big-sticker.png)
-![POSTER1](documentation/Q-Sci-poster1.png)
-![POSTER2](documentation/Q-Sci-poster2.png)
-![POSTER3](documentation/Q-Sci-poster3.png)
-![POSTER4](documentation/Q-Sci-poster4.png)
+![POSTER1](documentation/Q-Sci-posters1.png)
+![POSTER2](documentation/Q-Sci-posters2.png)
+![POSTER3](documentation/Q-Sci-posters3.png)
+![POSTER4](documentation/Q-Sci-posters4.png)
 
 ## 👀 Beta Font – Handle with Care
 
