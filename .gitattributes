@@ -1,2 +1,14 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Font binaries
+*.otf binary
+*.ttf binary
+*.woff binary
+*.woff2 binary
+*.eot binary
+
+# Glyphs source files (text-based)
+*.glyphs text
+*.glyphspackage/** text
+*.plist text

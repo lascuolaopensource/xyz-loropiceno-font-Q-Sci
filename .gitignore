@@ -1,0 +1,35 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Font development specific (Glyphs, FontForge, etc.)
+*.base.glyphs
+*.base.ufo
+build/
+dist/
+temp/
+master_ufo/
+instance_ufo/
+*.ufo
+*.glyphs.bak
+
+# Common build artifacts
+*.pyc
+__pycache__/
+node_modules/
+.npm
+.yarn
+package-lock.json
+yarn.lock
