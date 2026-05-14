@@ -12,7 +12,11 @@ Letterforms and icons were designed using **[Chirone](https://github.com/sssuper
 
 
 > **Team X 🥹🖤**
+
+| Team X | Q-Sci |
+|:---|:---|
 | ![X](documentation/Q-Sci-people.png) | ![Q-Sci](documentation/Q-Sci-I.png) |
+
 
 
 ## 🖼️ Specimen
