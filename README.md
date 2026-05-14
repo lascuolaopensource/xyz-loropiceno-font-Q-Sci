@@ -10,10 +10,7 @@ Letterforms and icons were designed using **[Chirone](https://github.com/sssuper
 
 > *Chirone is still a wip, but it works great! <3*
 
-
-> **Team X 🥹🖤**
-
-| Team X | Q-Sci |
+| Team X 🥹🖤| Physical "I" |
 |:---|:---|
 | ![X](documentation/Q-Sci-people.png) | ![Q-Sci](documentation/Q-Sci-I.png) |
 
