@@ -1,0 +1,162 @@
+{
+.appVersion = "3524";
+.formatVersion = 3;
+customParameters = (
+{
+name = vendorID;
+value = SSSU;
+},
+{
+name = "Enforce Compatibility Check";
+value = 1;
+}
+);
+date = "2026-05-07 00:00:00 +0000";
+familyName = "Q-Sci-Icon";
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;
+";
+name = Languagesystems;
+}
+);
+fontMaster = (
+{
+customParameters = (
+{
+name = "Master Icon Glyph Name";
+value = B;
+}
+);
+guides = (
+{
+pos = (1035,1656);
+}
+);
+id = m01;
+metricValues = (
+{
+pos = 3519;
+},
+{
+pos = 2898;
+},
+{
+pos = 1656;
+},
+{
+},
+{
+pos = -414;
+},
+{
+}
+);
+name = Regular;
+}
+);
+instances = (
+{
+customParameters = (
+{
+name = postscriptFontName;
+value = "Q-Sci-Icon";
+},
+{
+name = postscriptFullName;
+value = "Q-Sci-Icon";
+}
+);
+instanceInterpolations = {
+m01 = 1;
+};
+name = Regular;
+}
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+}
+);
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = ITA;
+value = " ";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = ITA;
+value = " La Scuola Open Source";
+}
+);
+},
+{
+key = designerURL;
+value = " https://lascuolaopensource.xyz";
+},
+{
+key = familyNames;
+values = (
+{
+language = ENG;
+value = "Q-Sci-Icon";
+},
+{
+language = ITA;
+value = "Q-Sci-Icon";
+}
+);
+},
+{
+key = licenses;
+values = (
+{
+language = ITA;
+value = " ";
+}
+);
+},
+{
+key = manufacturers;
+values = (
+{
+language = ITA;
+value = " SSSUPER.IO";
+}
+);
+},
+{
+key = manufacturerURL;
+value = "https://sssuper.io";
+}
+);
+settings = {
+disablesNiceNames = 1;
+};
+unitsPerEm = 3519;
+versionMajor = 1;
+versionMinor = 0;
+}

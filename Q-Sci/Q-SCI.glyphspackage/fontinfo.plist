@@ -1,0 +1,294 @@
+{
+.appVersion = "3524";
+.formatVersion = 3;
+axes = (
+{
+name = Weight;
+tag = wght;
+}
+);
+customParameters = (
+{
+name = vendorID;
+value = SSSU;
+},
+{
+name = "Enforce Compatibility Check";
+value = 1;
+}
+);
+date = "2026-05-07 00:00:00 +0000";
+familyName = "Q-Sci";
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;
+";
+name = Languagesystems;
+}
+);
+features = (
+{
+automatic = 1;
+code = "feature ss01;
+";
+tag = aalt;
+},
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;
+sub L L by L_L;
+";
+tag = dlig;
+},
+{
+automatic = 1;
+code = "sub L by L.ss01;
+sub V by V.ss01;
+sub X by X.ss01;
+sub asterisk by asterisk.ss01;
+sub ampersand by ampersand.ss01;
+sub arrowright by arrowright.ss01;
+sub arrowleft by arrowleft.ss01;
+";
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
+tag = ss01;
+}
+);
+fontMaster = (
+{
+axesValues = (
+0
+);
+customParameters = (
+{
+name = "Master Icon Glyph Name";
+value = B;
+}
+);
+guides = (
+{
+pos = (1035,1656);
+}
+);
+id = m01;
+metricValues = (
+{
+pos = 3519;
+},
+{
+pos = 2898;
+},
+{
+pos = 1656;
+},
+{
+},
+{
+pos = -414;
+},
+{
+}
+);
+name = Regular;
+},
+{
+axesValues = (
+100
+);
+customParameters = (
+{
+name = "Master Icon Glyph Name";
+value = B;
+}
+);
+guides = (
+{
+pos = (1035,1656);
+}
+);
+id = m002;
+metricValues = (
+{
+pos = 3519;
+},
+{
+pos = 2898;
+},
+{
+pos = 1656;
+},
+{
+},
+{
+pos = -414;
+},
+{
+}
+);
+name = Black;
+}
+);
+instances = (
+{
+axesValues = (
+0
+);
+customParameters = (
+{
+name = postscriptFontName;
+value = "Q-Sci-Regular";
+},
+{
+name = postscriptFullName;
+value = "Q-Sci Regular";
+}
+);
+instanceInterpolations = {
+m01 = 1;
+};
+name = Regular;
+},
+{
+axesValues = (
+100
+);
+customParameters = (
+{
+name = postscriptFontName;
+value = "Q-Sci-Black";
+},
+{
+name = postscriptFullName;
+value = "Q-Sci Black";
+}
+);
+instanceInterpolations = {
+m002 = 1;
+};
+isBold = 1;
+linkStyle = Regular;
+name = Black;
+weightClass = 900;
+}
+);
+kerningLTR = {
+m01 = {
+L = {
+T = -414;
+quotesingle = -414;
+};
+L_L = {
+T = -414;
+};
+P = {
+J = -414;
+};
+};
+m002 = {
+L = {
+T = -414;
+quotesingle = -414;
+};
+L_L = {
+T = -414;
+};
+P = {
+J = -414;
+};
+T = {
+E = 0;
+};
+};
+};
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+}
+);
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = ITA;
+value = " ";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = ITA;
+value = " La Scuola Open Source";
+}
+);
+},
+{
+key = designerURL;
+value = " https://lascuolaopensource.xyz";
+},
+{
+key = familyNames;
+values = (
+{
+language = ENG;
+value = "Q-Sci";
+},
+{
+language = ITA;
+value = "Q-Sci";
+}
+);
+},
+{
+key = licenses;
+values = (
+{
+language = ITA;
+value = " ";
+}
+);
+},
+{
+key = manufacturers;
+values = (
+{
+language = ITA;
+value = " SSSUPER.IO";
+}
+);
+},
+{
+key = manufacturerURL;
+value = "https://sssuper.io";
+}
+);
+settings = {
+disablesNiceNames = 1;
+};
+unitsPerEm = 3519;
+versionMajor = 1;
+versionMinor = 0;
+}
