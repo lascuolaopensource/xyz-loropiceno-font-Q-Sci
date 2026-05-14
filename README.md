@@ -34,10 +34,8 @@ Letterforms and icons were designed using **[Chirone](https://github.com/sssuper
 |:---:|:---:|
 | ![BIG STICKER](documentation/Q-Sci-big-sticker.png) | ![POSTER1](documentation/Q-Sci-posters1.png) |
 | POSTERS| +++ |
-|:---:|:---:|
 | ![POSTER2](documentation/Q-Sci-posters2.png) | ![POSTER3](documentation/Q-Sci-posters3.png) |
 | +++ | +++ |
-|:---:|:---:|
 | ![POSTER4](documentation/Q-Sci-posters4.png) | |
 
 ## 👀 Beta Font – Handle with Care
